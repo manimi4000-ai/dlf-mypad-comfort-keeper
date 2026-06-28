@@ -1,0 +1,6 @@
+{
+  "name": "DLF MyPad Comfort Keeper",
+  "description": "An award-winning, cinematic luxury residence experience in Gomti Nagar, Lucknow. Experience custom 3D visuals, elegant emerald-gold theme, and virtual AI concierge service.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
